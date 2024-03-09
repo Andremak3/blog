@@ -1,0 +1,100 @@
+.bo {
+    background-color: #9ed9f0;
+}
+
+#menu {
+    background-color: #f7f093;
+    padding-left: 5%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+
+}
+
+.bienvenida {
+    background-color: #2a5457;
+    color: #fbfffc;
+    font-size: 250%;
+    padding: 2%;
+}
+
+.subtit {
+    margin-left: 3%;
+    font-size: 120%;
+    font-family: 'Lucida Sans';
+}
+
+.tit {
+    margin-left: 3%;
+    font-size: 97%;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#imagen {
+
+    width: 40%;
+    float: right;
+}
+
+
+#zona-encabezado {
+
+    background-color: #fff27a;
+    width: 100%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: #266d8a;
+}
+
+h5 {
+    text-align: center;
+}
+
+.par {
+    text-align: center;
+    color: #706a33;
+
+}
+
+#zona-imagenes {
+    background-color: #2a5457;
+    width: 100%;
+    height: 230px;
+    text-align: center;
+    padding: 1%;
+}
+
+.tam {
+    margin-left: 20px;
+}
+
+#zona-cuerpo {
+    background-color: #fff27a;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+
+}
+
+.co {
+    color: #26388a;
+    font-family: 'Arial Narrow Bold';
+}
+
+#zona-final {
+    background-color: #ffeb32;
+    width: 23%;
+    text-align: right;
+    float: right;
+    padding: 1%;
+}
+
+.mar {
+    margin-right: 32px;
+
+}
